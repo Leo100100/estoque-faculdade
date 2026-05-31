@@ -244,5 +244,5 @@ class ProdutoView(ctk.CTk):
         ctk.CTkButton(janela, text="Salvar", command=salvar_alteracoes).pack(pady=20)
 
     def _sair(self):
-        """Fecha a janela principal e volta para o login."""
+        
         self.destroy()

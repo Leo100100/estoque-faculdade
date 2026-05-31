@@ -1,3 +1,18 @@
+
+
+
+## Integrantes do Projeto
+
+| Nº | Aluno(a) | Matrícula |
+|----|----------|------------|
+| 1 | Leandro Nascimento de Sousa | 202303752181 |
+| 2 | Guilherme Correa da Cruz Marques | 202408700938 |
+| 3 | Caian Ribeiro Carvalho | 202402365746 |
+| 4 | Luan Souza Ferreira de Jesus | 202408557566 |
+| 5 | Gustavo Jorge Santana Castro | 202402365886 |
+| 6 | João Paulo Rodrigues Cerqueira | 202403601052 |
+
+
 # Sistema de Estoque MVC
 
 Sistema de controle de estoque com login de usuários, desenvolvido em Python com interface gráfica.
