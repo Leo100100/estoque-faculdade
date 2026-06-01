@@ -12,6 +12,9 @@
 | 5 | Gustavo Jorge Santana Castro | 202402365886 |
 | 6 | João Paulo Rodrigues Cerqueira | 202403601052 |
 
+## Documentação do projeto
+
+Arquivo(Dentro do codigo no Github) -> doc_projeto.docx.pdf
 
 # Sistema de Estoque MVC
 
