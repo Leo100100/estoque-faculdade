@@ -41,7 +41,7 @@ pip install customtkinter mysql-connector-python
 
 **4. Execute o programa**
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Usuários de exemplo (criados pelo banco.sql)
